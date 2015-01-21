@@ -1,0 +1,2 @@
+# goproj
+go project
